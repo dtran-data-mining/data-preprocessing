@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+GitHub-Data/crypto_github_events_local.csv
