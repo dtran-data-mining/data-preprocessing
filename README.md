@@ -6,7 +6,7 @@ This assignment focuses on using `pandas` to preprocess datasets and visualize r
 
 ## Usage
 
-Open the `.ipynb` files using [Jupyter Notebook](https://jupyter.org) to run the progams.
+Open the `.ipynb` files using [Jupyter Notebook](https://jupyter.org) to run the programs.
 
 ```bash
 jupyter-notebook github.ipynb
