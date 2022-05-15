@@ -2,7 +2,7 @@
 
 **Assignment 1 - Data Preprocessing and Data Visualization**
 
-> This assignment focuses on using `pandas` to preprocess datasets and visualize results.
+This assignment focuses on using `pandas` to preprocess datasets and visualize results.
 
 ## Usage
 
